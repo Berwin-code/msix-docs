@@ -29,7 +29,7 @@ Before we go in to more detail, here is a complete sample msixbundle *.appinstal
         Name="Contoso.MainApp"
         Publisher="CN=Contoso"
         Version="2.23.12.43"
-        Uri="http://mywebservice.azurewebsites.net/mainapp.msixbundle" />
+        Uri="
 
     <OptionalPackages>
         <Bundle
